@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+## 预览页
+> https://volodya-01.github.io/-vue_canvas_top_bottom_saomiao_preview/
+
 ## Build Setup
 
 ``` bash
